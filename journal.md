@@ -37,3 +37,8 @@ hr spent: 6 total: 25
 
 I spent most of this journal trying to route this shitty ahh pcb, the placement of the keys is in like diagonal and that makes routes worse, cuz i need to route everything dioganally. the dev board too seems to have some issues i increased the spacing the between some of these connections. i spent a while reading thru kai's guide. ive made this before but i dont think that one wouldve worked 
 hr spent: 6 total: 31 
+
+# 15/7/26 2 hrs
+so yummy routing i love routing so fun /s how the hell did this take me 2 hrs to do it cannot be that hard :pray-sob: 
+<img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/3d6a4d0f-1b2e-431f-8324-755c0678b1cd" />
+
