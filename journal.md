@@ -35,5 +35,5 @@ hr spent: 6 total: 25
 <img width="1066" height="731" alt="Screenshot from 2026-07-13 21-12-20" src="https://github.com/user-attachments/assets/ec300c42-5c83-45d8-8f7c-b4bf6a52f10a" />
 <img width="446" height="406" alt="Screenshot from 2026-07-13 20-19-04" src="https://github.com/user-attachments/assets/e47794ce-ceb4-47a1-9b7e-5172c1f64c1e" />
 
-
+I spent most of this journal trying to route this shitty ahh pcb, the placement of the keys is in like diagonal and that makes routes worse, cuz i need to route everything dioganally. the dev board too seems to have some issues i increased the spacing the between some of these connections. i spent a while reading thru kai's guide. ive made this before but i dont think that one wouldve worked 
 hr spent: 6 total: 31 
