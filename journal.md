@@ -47,3 +47,8 @@ hr spent: 6 total: 31
 so yummy routing i love routing so fun /s how the hell did this take me 2 hrs to do it cannot be that hard :pray-sob: 
 <img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/3d6a4d0f-1b2e-431f-8324-755c0678b1cd" />
 
+# 16/7/26 5 hrs 
+i did a whoopsi and yet again put these diodes at the wrong place yay, so now i have to move everyone of these left and down. now for the routing, this is all diagonal so i gotta do that bit again cuz a lot of these connections seem to have been messed up after i moved the diodes. this is prolly the final routing for this side of the split keeb! i should be done with the dev board part of this soon too. its prolly gonna be copying and pasting the other one and adding a few changes 
+<img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/06e755cb-61d6-4158-bfc3-d1b59142591d" />
+<img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/eefdc2a5-c525-48fb-943e-2c537e544627" />
+<img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/7b544d45-55bb-44a0-8a74-9e1f16ad2bbb" />
