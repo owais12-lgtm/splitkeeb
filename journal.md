@@ -34,21 +34,27 @@ im working on the placement for this dev board, i wanna try making it as compact
 
 hr spent: 6 total: 25 
 # 13/7/26  6 hours 
+I spent most of this journal trying to route this shitty ahh pcb, the placement of the keys is in like diagonal and that makes routes worse, cuz i need to route everything dioganally. the dev board too seems to have some issues i increased the spacing the between some of these connections. i spent a while reading thru kai's guide. ive made this before but i dont think that one wouldve worked 
+hr spent: 6 total: 31 
+
 <img width="1023" height="624" alt="Screenshot from 2026-07-13 19-33-24" src="https://github.com/user-attachments/assets/7c66aa17-7d8e-4939-94dc-792fe64489bc" />
 <img width="1012" height="806" alt="Screenshot from 2026-07-13 18-51-01" src="https://github.com/user-attachments/assets/7c2b0187-478a-4510-b173-93e37020162c" /><img width="188" height="129" alt="Screenshot from 2026-07-13 21-24-02" src="https://github.com/user-attachments/assets/d61a94f8-a2b6-49b7-afc3-410c71078099" />
 <img width="1066" height="731" alt="Screenshot from 2026-07-13 21-12-36" src="https://github.com/user-attachments/assets/3413ad6d-8efb-4203-84e1-cf4ca01626f0" />
 <img width="1066" height="731" alt="Screenshot from 2026-07-13 21-12-20" src="https://github.com/user-attachments/assets/ec300c42-5c83-45d8-8f7c-b4bf6a52f10a" />
 <img width="446" height="406" alt="Screenshot from 2026-07-13 20-19-04" src="https://github.com/user-attachments/assets/e47794ce-ceb4-47a1-9b7e-5172c1f64c1e" />
 
-I spent most of this journal trying to route this shitty ahh pcb, the placement of the keys is in like diagonal and that makes routes worse, cuz i need to route everything dioganally. the dev board too seems to have some issues i increased the spacing the between some of these connections. i spent a while reading thru kai's guide. ive made this before but i dont think that one wouldve worked 
-hr spent: 6 total: 31 
 
 # 15/7/26 2 hrs
 so yummy routing i love routing so fun /s how the hell did this take me 2 hrs to do it cannot be that hard :pray-sob: 
 <img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/3d6a4d0f-1b2e-431f-8324-755c0678b1cd" />
-
+ hrs spent: 2 total: 33
 # 16/7/26 5 hrs 
-i did a whoopsi and yet again put these diodes at the wrong place yay, so now i have to move everyone of these left and down. now for the routing, this is all diagonal so i gotta do that bit again cuz a lot of these connections seem to have been messed up after i moved the diodes. this is prolly the final routing for this side of the split keeb! i should be done with the dev board part of this soon too. its prolly gonna be copying and pasting the other one and adding a few changes 
+i did a whoopsi and yet again put these diodes at the wrong place yay, so now i have to move everyone of these left and down. now for the routing, this is all diagonal so i gotta do that bit again cuz a lot of these connections seem to have been messed up after i moved the diodes. this is prolly the final routing for this side of the split keeb! i should be done with the dev board part of this soon too. its prolly gonna be copying and pasting the other one and adding a few changes
+
+hrs spent: 5 total: 38
+
+<img width="1123" height="689" alt="Screenshot from 2026-07-16 17-31-29" src="https://github.com/user-attachments/assets/fd34ec64-bb87-43c6-8e26-6f86797f27f0" />
+
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/06e755cb-61d6-4158-bfc3-d1b59142591d" />
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/eefdc2a5-c525-48fb-943e-2c537e544627" />
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/7b544d45-55bb-44a0-8a74-9e1f16ad2bbb" />
