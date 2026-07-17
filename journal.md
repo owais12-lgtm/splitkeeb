@@ -58,3 +58,11 @@ hrs spent: 5 total: 38
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/06e755cb-61d6-4158-bfc3-d1b59142591d" />
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/eefdc2a5-c525-48fb-943e-2c537e544627" />
 <img width="1123" height="689" alt="image" src="https://github.com/user-attachments/assets/7b544d45-55bb-44a0-8a74-9e1f16ad2bbb" />
+
+# 17/7/26 3 hrs
+for this journal entry i spent most of my morning trying to route my dev board, this is how far i got without drc ruining it for me, i finished routinng the entire thing so i can now fix all the errors and stuff drc shows me along with the malformed boundry so i can start work on my case. 
+
+hrs spent: 3 total: 41
+
+<img width="1330" height="586" alt="Screenshot from 2026-07-17 15-40-30" src="https://github.com/user-attachments/assets/47862642-7b2e-451b-ae21-06d698553050" />
+<img width="784" height="570" alt="Screenshot from 2026-07-17 15-35-49" src="https://github.com/user-attachments/assets/558a01da-7cc1-4df4-8b54-0fd89e04bb23" />
