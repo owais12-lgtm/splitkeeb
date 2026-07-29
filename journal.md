@@ -10,10 +10,7 @@ i made part of my dev board schematic, i used kai pererra's guide to make this
 
 I finished the other part of my dev board schematic, this one took way longer than i expected. 
 <img width="900" height="902" alt="image" src="https://github.com/user-attachments/assets/ef2c2af7-f595-43bf-bf64-52caebfa0b14" />
-
-
-# 1/7/26 3 hours
-Apperently my schematic was pretty wrong, i had some people help me out with the schematic and heres the hopefully final version, i still need to make this presentable cuz its really messy atm.  <img width="1426" height="632" alt="image" src="https://github.com/user-attachments/assets/05767fb5-92fc-4233-b4e4-d69e83894dee" />
+ <img width="1426" height="632" alt="image" src="https://github.com/user-attachments/assets/05767fb5-92fc-4233-b4e4-d69e83894dee" />
 
 # 5/7/26 5 hours
 this pcb is so annoying to place, all these switches seem to be at the wrong place with traces going through them that shouldnt be and the diodes are inside the switches, i gotta manually fix all those cuz im dumb 
