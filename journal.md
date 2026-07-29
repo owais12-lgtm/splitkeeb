@@ -1,29 +1,27 @@
 # 10/6/26 4 hours
-I worked on the schematic for the split keyboard, i made my switch matrix for both sides
+I worked on the schematic for the split keyboard, i made my switch matrix for both sides. one of the problems i had with this and why it took way longer than i thought it would was that the symbols for choc switches got deleted from my laptop so i had to find where i got those from initially 
 <img width="649" height="510" alt="image" src="https://github.com/user-attachments/assets/bf01eda9-e060-4138-ab59-b65138520b5a" />
+<img width="803" height="618" alt="image" src="https://github.com/user-attachments/assets/e70b412a-7ee9-4ead-a32e-ff2b6eb16a6c" />
 
-hr spent: 4 total: 4 
-# 13/6/26 3 hours
+
+# 13/6/26 6 hours
 i made part of my dev board schematic, i used kai pererra's guide to make this
 <img width="776" height="691" alt="image" src="https://github.com/user-attachments/assets/280801a3-224a-4c95-ae09-801efadf0785" />
 
-hr spent: 3 total: 7
-# 16/6/26 4 hours
 I finished the other part of my dev board schematic, this one took way longer than i expected. 
 <img width="900" height="902" alt="image" src="https://github.com/user-attachments/assets/ef2c2af7-f595-43bf-bf64-52caebfa0b14" />
 
-hr spent: 4 total: 11
+
 # 1/7/26 3 hours
 Apperently my schematic was pretty wrong, i had some people help me out with the schematic and heres the hopefully final version, i still need to make this presentable cuz its really messy atm.  <img width="1426" height="632" alt="image" src="https://github.com/user-attachments/assets/05767fb5-92fc-4233-b4e4-d69e83894dee" />
 
-hr spent: 3 total: 14 
 # 5/7/26 5 hours
 this pcb is so annoying to place, all these switches seem to be at the wrong place with traces going through them that shouldnt be and the diodes are inside the switches, i gotta manually fix all those cuz im dumb 
 <img width="584" height="666" alt="image" src="https://github.com/user-attachments/assets/f3a5d1ea-0214-4f27-b24f-5a90aca78971" />
 <img width="784" height="639" alt="image" src="https://github.com/user-attachments/assets/e7cc9775-3775-4cc7-8cd3-be803961fceb" />
 <img width="721" height="804" alt="image" src="https://github.com/user-attachments/assets/35cfcb1c-2f7a-4f07-bb9e-e2fcbc6495c0" />
 
-hr spent: 5 total: 19 
+
  # 11/7/26 6 hrs 
 im working on the placement for this dev board, i wanna try making it as compact as possible but i might have no choice but to make it spaced out. this routing is gonna kill me why does this dev board not wanna work,  it seems to be insanely difficult to route this to be pretty smol. i also went ahead and replaced all the diodes cuz they were inside the keys and some of them were wrong too 
 <img width="617" height="673" alt="image" src="https://github.com/user-attachments/assets/0fe159b7-f42e-4391-b458-fb90ec5a0f28" />
@@ -32,7 +30,7 @@ im working on the placement for this dev board, i wanna try making it as compact
 <img width="1190" height="773" alt="image" src="https://github.com/user-attachments/assets/85c49d1c-1c28-4ac7-8ee7-4e16c1f6d26d" />
 <img width="1190" height="773" alt="image" src="https://github.com/user-attachments/assets/22d9120b-cb5e-424a-a61e-15b9502805d0" />
 
-hr spent: 6 total: 25 
+
 # 13/7/26  6 hours 
 I spent most of this journal trying to route this shitty ahh pcb, the placement of the keys is in like diagonal and that makes routes worse, cuz i need to route everything dioganally. the dev board too seems to have some issues i increased the spacing the between some of these connections. i spent a while reading thru kai's guide. ive made this before but i dont think that one wouldve worked 
 hr spent: 6 total: 31 
@@ -47,11 +45,10 @@ hr spent: 6 total: 31
 # 15/7/26 2 hrs
 so yummy routing i love routing so fun /s how the hell did this take me 2 hrs to do it cannot be that hard :pray-sob: 
 <img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/3d6a4d0f-1b2e-431f-8324-755c0678b1cd" />
- hrs spent: 2 total: 33
+ 
 # 16/7/26 5 hrs 
 i did a whoopsi and yet again put these diodes at the wrong place yay, so now i have to move everyone of these left and down. now for the routing, this is all diagonal so i gotta do that bit again cuz a lot of these connections seem to have been messed up after i moved the diodes. this is prolly the final routing for this side of the split keeb! i should be done with the dev board part of this soon too. its prolly gonna be copying and pasting the other one and adding a few changes
 
-hrs spent: 5 total: 38
 
 <img width="1123" height="689" alt="Screenshot from 2026-07-16 17-31-29" src="https://github.com/user-attachments/assets/fd34ec64-bb87-43c6-8e26-6f86797f27f0" />
 
