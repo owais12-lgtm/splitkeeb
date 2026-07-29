@@ -39,7 +39,7 @@ hr spent: 6 total: 31
 <img width="446" height="406" alt="Screenshot from 2026-07-13 20-19-04" src="https://github.com/user-attachments/assets/e47794ce-ceb4-47a1-9b7e-5172c1f64c1e" />
 
 
-# 15/7/26 2 hrs
+# 15/7/26 1 hrs
 so yummy routing i love routing so fun /s how the hell did this take me 2 hrs to do it cannot be that hard :pray-sob: 
 <img width="853" height="542" alt="image" src="https://github.com/user-attachments/assets/3d6a4d0f-1b2e-431f-8324-755c0678b1cd" />
  
@@ -56,7 +56,7 @@ i did a whoopsi and yet again put these diodes at the wrong place yay, so now i 
 # 17/7/26 3 hrs
 for this journal entry i spent most of my morning trying to route my dev board, this is how far i got without drc ruining it for me, i finished routinng the entire thing so i can now fix all the errors and stuff drc shows me along with the malformed boundry so i can start work on my case. 
 
-hrs spent: 3 total: 41
+hrs spent: 3 total: 
 
 <img width="1330" height="586" alt="Screenshot from 2026-07-17 15-40-30" src="https://github.com/user-attachments/assets/47862642-7b2e-451b-ae21-06d698553050" />
 <img width="784" height="570" alt="Screenshot from 2026-07-17 15-35-49" src="https://github.com/user-attachments/assets/558a01da-7cc1-4df4-8b54-0fd89e04bb23" />
