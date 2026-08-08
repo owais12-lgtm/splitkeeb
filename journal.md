@@ -8,8 +8,7 @@ I worked on the schematic for the split keyboard, I made my switch matrix for bo
 ---
 
 ## 13/6/26 - 6 hours
-I made part of my dev board schematic, I used Kai Pererra's guide to make this.
-
+I made part of my dev board schematic, I used Kai Pererra's guide to make this. some of parts i messed up were the 8 IO VDD pins, and wiring the decoupling capacitors.i also had to replace the NCP1117 twice cuz both those were the wrong ones and had to be replaced 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/280801a3-224a-4c95-ae09-801efadf0785" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/ef2c2af7-f595-43bf-bf64-52caebfa0b14" />
 
 I finished the other part of my dev board schematic, this one took way longer than I expected.
@@ -69,4 +68,8 @@ I did a whoopsi and yet again put these diodes at the wrong place yay, so now I 
 For this journal entry I spent most of my morning trying to route my dev board, this is how far I got without DRC ruining it for me. I finished routing the entire thing so I can now fix all the errors and stuff DRC shows me along with the malformed boundary so I can start work on my case.
 
 <img width="400" alt="Screenshot from 2026-07-17 15-40-30" src="https://github.com/user-attachments/assets/47862642-7b2e-451b-ae21-06d698553050" /> <img width="400" alt="Screenshot from 2026-07-17 15-35-49" src="https://github.com/user-attachments/assets/558a01da-7cc1-4df4-8b54-0fd89e04bb23" />
+
+# now i actually finish the drc errors 
+
+
 
