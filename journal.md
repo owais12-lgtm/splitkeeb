@@ -69,7 +69,10 @@ For this journal entry I spent most of my morning trying to route my dev board, 
 
 <img width="400" alt="Screenshot from 2026-07-17 15-40-30" src="https://github.com/user-attachments/assets/47862642-7b2e-451b-ae21-06d698553050" /> <img width="400" alt="Screenshot from 2026-07-17 15-35-49" src="https://github.com/user-attachments/assets/558a01da-7cc1-4df4-8b54-0fd89e04bb23" />
 
-# now i actually finish the drc errors 
+# now i actually finish the drc errors  -> i did these last week
 
+i got these all the way down to 1, most of those were edge malfunctions and unconnected pins.
+
+<img width="310" height="52" alt="image" src="https://github.com/user-attachments/assets/525bf85b-4bac-4796-8d7e-65577d92b3a4" />
 
 
