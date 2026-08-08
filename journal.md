@@ -1,4 +1,4 @@
-# Total time: 37 hrs
+# Total time: 41 hrs
 
 ## 10/6/26 - 4 hours
 I worked on the schematic for the split keyboard, I made my switch matrix for both sides. One of the problems I had with this and why it took way longer than I thought it would was that the symbols for choc switches got deleted from my laptop so I had to find where I got those from initially.
@@ -69,10 +69,20 @@ For this journal entry I spent most of my morning trying to route my dev board, 
 
 <img width="400" alt="Screenshot from 2026-07-17 15-40-30" src="https://github.com/user-attachments/assets/47862642-7b2e-451b-ae21-06d698553050" /> <img width="400" alt="Screenshot from 2026-07-17 15-35-49" src="https://github.com/user-attachments/assets/558a01da-7cc1-4df4-8b54-0fd89e04bb23" />
 
-# now i actually finish the drc errors  -> i did these last week
+# drc errors
+my drc errors r so fried its insane im gonna fix all of these hopefully. its a mix of clearence errors and traces crossing each other + shorted nets + malformed outlines + solder masks touch the other nets. 
 
-i got these all the way down to 1, most of those were edge malfunctions and unconnected pins.
-
-<img width="310" height="52" alt="image" src="https://github.com/user-attachments/assets/525bf85b-4bac-4796-8d7e-65577d92b3a4" />
+i got all of these fixed and am now only left with unconnected items which i can ignore cuz its a kicad error and not a actual problem
 
 
+time spent: 4 hours
+
+
+
+<img width="325" height="80" alt="image" src="https://github.com/user-attachments/assets/cf9b6217-d6f9-401b-a67f-9c389dac55a1" />
+<img width="392" height="492" alt="image" src="https://github.com/user-attachments/assets/012bc917-8c1b-4663-ad8a-69450f8185ff" />
+
+<img width="567" height="395" alt="image" src="https://github.com/user-attachments/assets/06c91bab-4579-414e-86f5-0a0b258ed83a" />
+<img width="1119" height="80" alt="image" src="https://github.com/user-attachments/assets/79a3e6b4-0e44-4a1d-b4f4-38bc879a6c78" />
+<img width="911" height="383" alt="image" src="https://github.com/user-attachments/assets/8b8b209f-d124-4cca-a524-403e6b0903e5" />
+<img width="1095" height="299" alt="image" src="https://github.com/user-attachments/assets/fa7e364b-22c9-41ea-ada6-f0f6ec78b2df" />
