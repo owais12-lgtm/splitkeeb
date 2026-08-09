@@ -1,4 +1,4 @@
-# Total time: 41 hrs
+# Total time: 42 hrs
 
 ## 10/6/26 - 4 hours
 I worked on the schematic for the split keyboard, I made my switch matrix for both sides. One of the problems I had with this and why it took way longer than I thought it would was that the symbols for choc switches got deleted from my laptop so I had to find where I got those from initially.
@@ -86,3 +86,14 @@ time spent: 4 hours
 <img width="1119" height="80" alt="image" src="https://github.com/user-attachments/assets/79a3e6b4-0e44-4a1d-b4f4-38bc879a6c78" />
 <img width="911" height="383" alt="image" src="https://github.com/user-attachments/assets/8b8b209f-d124-4cca-a524-403e6b0903e5" />
 <img width="1095" height="299" alt="image" src="https://github.com/user-attachments/assets/fa7e364b-22c9-41ea-ada6-f0f6ec78b2df" />
+
+
+
+
+# case
+
+i spent 1 hour on this pretty bad case made in tinkercad, its so bad its amazing but uh it works and thats what matters 😭
+
+<img width="1486" height="792" alt="image" src="https://github.com/user-attachments/assets/e14d7e5c-de75-4037-8da4-70c3fe425f97" />
+
+https://www.tinkercad.com/things/a4B1lVT00vB-epic-allis-leelo
