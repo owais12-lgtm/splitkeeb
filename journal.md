@@ -1,6 +1,6 @@
 # Total time: 42 hrs
 
-## 10/6/26 - 4 hours
+## 10/6/26 - 3 hours
 I worked on the schematic for the split keyboard, I made my switch matrix for both sides. One of the problems I had with this and why it took way longer than I thought it would was that the symbols for choc switches got deleted from my laptop so I had to find where I got those from initially.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bf01eda9-e060-4138-ab59-b65138520b5a" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/e70b412a-7ee9-4ead-a32e-ff2b6eb16a6c" />
