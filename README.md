@@ -1,15 +1,15 @@
 This my 42 key wireless split keyboard! It follows the corne layout I believe with a 3x6+3 layout. It will use 42 switches and a screen, and is powered by a custom made rp2040 dev board.
 
 # Features
-Dual-core M0+ processor
-Flexible clock running up to 133 MHz
-264 kB of SRAM
-USB 1.1 controller and PHY with device and host support
-Low-power sleep and dormant modes
-Accurate clock and timer
-Accelerated floating-point libraries
-Temperature sensor
-oled screen 
+- Dual-core M0+ processor
+- Flexible clock running up to 133 MHz
+- 264 kB of SRAM
+- USB 1.1 controller and PHY with device and host support
+- Low-power sleep and dormant modes
+- Accurate clock and timer
+- Accelerated floating-point libraries
+- Temperature sensor
+- Oled screen
 
 # BOM 
 
