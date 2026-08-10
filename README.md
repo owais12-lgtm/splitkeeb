@@ -1,5 +1,16 @@
 This my 42 key wireless split keyboard! It follows the corne layout I believe with a 3x6+3 layout. It will use 42 switches and a screen, and is powered by a custom made rp2040 dev board.
 
+# pictures 
+
+<img width="1621" height="648" alt="image" src="https://github.com/user-attachments/assets/1b5f1bba-263f-4df3-a0df-8048e4c5d460" />
+
+<img width="753" height="286" alt="image" src="https://github.com/user-attachments/assets/888564b4-9f6f-4a95-aaa0-c2bd7a5df744" />
+
+
+
+<img width="598" height="299" alt="image" src="https://github.com/user-attachments/assets/ac3403d2-7845-442e-8d0f-df0615f1aa15" />
+
+
 # Features
 - Dual-core M0+ processor
 - Flexible clock running up to 133 MHz
@@ -22,6 +33,4 @@ This my 42 key wireless split keyboard! It follows the corne layout I believe wi
 | OLED | OLED | 1 | $2.00 | [robu.in](https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/) | Robu |
 | Raspberry Pi Pico | MCU | 1 | $5.00 | [robu.in](https://robu.in/product/raspberry-pi-pico/) | Robu |
 
-
-# Pictures 
 
