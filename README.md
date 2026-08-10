@@ -34,3 +34,5 @@ This my 42 key wireless split keyboard! It follows the corne layout I believe wi
 | Raspberry Pi Pico | MCU | 1 | $5.00 | [robu.in](https://robu.in/product/raspberry-pi-pico/) | Robu |
 
 
+# CAD
+https://www.tinkercad.com/things/a4B1lVT00vB-epic-allis-leelo?sharecode=KdJOAqElzg50q9dy6yfUfhPSDzxFtZ2tY2mduqYmmd4
